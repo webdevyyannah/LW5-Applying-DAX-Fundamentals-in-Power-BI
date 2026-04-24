@@ -8,4 +8,6 @@
 🔗 [Click here to view the PDF in repository](./SALAZAR_LW5_DAX.pdf)
 
 ## Original Datasets
-🔗 [Click here to view the PDF in repository](./)
+🔗 [Click here to view the PDF in repository](./Cookie Types.xlsx)
+🔗 [Click here to view the PDF in repository](./Customers.xlsx)
+🔗 [Click here to view the PDF in repository](./Orders.xlsx)
