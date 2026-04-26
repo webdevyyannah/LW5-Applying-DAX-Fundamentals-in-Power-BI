@@ -4,6 +4,8 @@
 
 ## Laboratory Title: Laboratory Work 5 - Applying-DAX-Fundamentals-in-Power-BI
 
+## Links:
+
 ## PDF Documentation
 🔗 [Click here to view the PDF in repository](./LW5_DAX_SALAZAR.pdf)
 
